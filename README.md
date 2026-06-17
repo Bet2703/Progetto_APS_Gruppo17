@@ -91,4 +91,4 @@ La GUI offre un'interfaccia intuitiva per:
 
 **Gruppo 17** - Progetto Algoritmi e Protocolli per la Sicurezza
 * **Dello Russo Benedetta Lucia** 
-* **Di Lieto Andrea** (Matricola: IE22700136)
+* **Di Lieto Andrea**
